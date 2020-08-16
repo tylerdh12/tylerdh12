@@ -3,9 +3,9 @@
 ### I'm a Husband and a React Web / Native Developer
 
 - I'm currently working on a [React Native Gardening App][harvestguardian]
-- 📚  I’m currently learning everything I can
-- 🔍  I’m looking to Develop Creative meaningful applications
-- 🥅  2020 Goals: Contribute more to Open Source projects
+- 📚 I’m currently learning everything I can
+- 🔍 I’m looking to Develop Creative meaningful applications
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -49,13 +49,14 @@
 
 ---
 
-[View My Resume][website]
+#### [View My Resume][website]
 
 ---
 
 <br />
 
 <details>
+
   <summary> Github Stats</summary>
 
   <br />
