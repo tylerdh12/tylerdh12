@@ -47,7 +47,11 @@
 
 <br />
 
+---
+
 [View My Resume][website]
+
+---
 
 <br />
 
