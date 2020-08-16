@@ -1,9 +1,9 @@
 ### Hello there my name is Tyler Harper [Resume][website]
 
-## I'm a Husband and a Developer
+## I'm a Husband and a React Web / Native Developer
 
 - I'm currently working on a [React Native Gardening App][harvestguardian]
-- 📚 I’m currently learning everything 🤣
+- 📚 I’m currently learning everything I can
 - 🔍 I’m looking to Develop Creative meaningful applications
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
@@ -47,14 +47,6 @@
 
 <br />
 <br />
-
-<!-- ---
-
-### 📕 Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- ➡️ [more blog posts...](https://blog.jsstack.dev) -->
 
 ---
 
