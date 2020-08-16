@@ -1,6 +1,6 @@
-### Hello there my name is Tyler Harper [Resume][website]
+## Hello there my name is Tyler Harper [Resume][website]
 
-## I'm a Husband and a React Web / Native Developer
+### I'm a Husband and a React Web / Native Developer
 
 - I'm currently working on a [React Native Gardening App][harvestguardian]
 - 📚  I’m currently learning everything I can
