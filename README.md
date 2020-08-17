@@ -1,4 +1,4 @@
-## Hello there my name is Tyler Harper
+## Hello there my name is [Tyler Harper][https://landr.me/tdh.id.blockstack]
 
 ### I'm a Husband and a React Web / Native Developer
 
