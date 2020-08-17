@@ -1,4 +1,4 @@
-## Hello there my name is [Tyler Harper][https://landr.me/tdh.id.blockstack]
+## Hello there my name is [Tyler Harper][landr]
 
 ### I'm a Husband and a React Web / Native Developer
 
@@ -68,3 +68,4 @@
 [linkedin]: https://linkedin.com/in/tyler-js-dev
 [harvestguardian]: https://expo.io/@tylerdh12/Harvest_Guardian
 [links]: https://jsstack.dev
+[landr]: https://landr.me/tdh.id.blockstack
