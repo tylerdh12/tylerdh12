@@ -49,7 +49,11 @@
 
 ---
 
-#### [View My Resume][website]
+#### [View My Portfolio][website]
+
+---
+
+#### [View My Resume][resume-website]
 
 ---
 
@@ -64,6 +68,7 @@
 </details>
 
 [website]: https://jsstack.dev
+[resume-website]: https://resume.jsstack.dev
 [twitter]: https://twitter.com/jsstackdev
 [linkedin]: https://linkedin.com/in/tyler-js-dev
 [harvestguardian]: https://expo.io/@tylerdh12/Harvest_Guardian
