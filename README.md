@@ -1,4 +1,4 @@
-## Hello there my name is [Tyler Harper][landr]
+## Hello there my name is [Tyler Harper][website]
 
 ### React Web / Native Developer
 
