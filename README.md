@@ -67,10 +67,10 @@
 
 </details>
 
-[website]: https://jsstack.dev
+[website]: https://tylerharper.dev
 [resume-website]: https://resume.jsstack.dev
 [twitter]: https://twitter.com/jsstackdev
 [linkedin]: https://linkedin.com/in/tyler-js-dev
 [harvestguardian]: https://expo.io/@tylerdh12/Harvest_Guardian
-[links]: https://jsstack.dev
+[links]: https://tylerharper.dev
 [landr]: https://landr.me/tdh.id.blockstack
