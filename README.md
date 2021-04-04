@@ -52,10 +52,6 @@
 
 ---
 
-#### [View My Resume][resume-website]
-
----
-
 <details>
 
   <summary> Github Stats</summary>
