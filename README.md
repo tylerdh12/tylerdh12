@@ -2,10 +2,8 @@
 
 ### React Web / Native Developer
 
-- I'm currently working on a [React Native Gardening App][harvestguardian]
 - 📚 I’m currently learning React Native
 - 🔍 I’m looking to Develop Creative meaningful applications
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
