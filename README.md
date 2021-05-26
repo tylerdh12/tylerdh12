@@ -4,7 +4,7 @@
 
 I’m looking to build creative meaningful applications
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="JSStack | Twitter" width="22px" src="https://github.com/twitter.png?s=20" />][twitter]
 [<img align="left" alt="JSStack | LinkedIn" width="22px" src="https://github.com/linkedin.png?s=20" />][linkedin]
