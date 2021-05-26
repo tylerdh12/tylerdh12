@@ -11,7 +11,7 @@ I’m looking to build creative meaningful applications
 
 <br />
 
-#### [My Portfolio][website]
+#### [My Portfolio][portfolio]
 
 #### [Download My Resume][resume]
 
@@ -55,6 +55,7 @@ I’m looking to build creative meaningful applications
 ![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerdh12)
 
 [website]: https://tylerharper.dev
+[portfolio]: https://tylerharper.dev/#portfolio
 [resume]: https://github.com/tylerdh12/TylerHarper-Resume/raw/master/Resume-Docs/Tyler%20Harper%20-%20Full%20Stack%20Developer%20Resume.pdf
 [twitter]: https://twitter.com/jsstackdev
 [linkedin]: https://linkedin.com/in/tyler-js-dev
