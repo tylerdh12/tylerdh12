@@ -48,7 +48,9 @@ I’m looking to build creative meaningful applications
 
 [<img align="left" alt="Terminal" width="26px" src="https://cdn0.iconfinder.com/data/icons/development-solid/32/terminal_coding_linuxcomputingdevelopment-512.png" />][links]
 
-<br /><br />
+<br />
+<br />
+<br />
 
 ![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerdh12)
 
