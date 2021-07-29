@@ -53,6 +53,7 @@ I’m looking to build creative meaningful applications
 <br />
 
 ![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerdh12)
+[Prettier Config](https://gist.github.com/tylerdh12/cc630c1e18d2584a8e4a933fe29af4c6)
 
 [website]: https://tylerharper.dev
 [portfolio]: https://tylerharper.dev/#portfolio
@@ -75,3 +76,4 @@ I’m looking to build creative meaningful applications
 [node]: https://github.com/tylerdh12?tab=repositories&q=node&type=public
 [sql]: https://github.com/tylerdh12?tab=repositories&q=sql&type=public
 [mongodb]: https://github.com/tylerdh12?tab=repositories&q=mongodb
+
