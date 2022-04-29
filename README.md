@@ -13,7 +13,7 @@ I’m looking to build creative meaningful applications
 
 #### [My Portfolio][portfolio]
 
-#### [Download My Resume][resume]
+<!-- #### [Download My Resume][resume] -->
 
 ### Languages and Tools: 
 ```🚩 Click on the icons to view projects related to that technology```
@@ -56,7 +56,7 @@ I’m looking to build creative meaningful applications
 
 [website]: https://tylerharper.dev
 [portfolio]: https://tylerharper.dev/#portfolio
-[resume]: https://github.com/tylerdh12/TylerHarper-Resume/raw/master/Resume-Docs/Tyler%20Harper%20-%20Full%20Stack%20Developer%20Resume.pdf
+<!-- [resume]: https://github.com/tylerdh12/TylerHarper-Resume/raw/master/Resume-Docs/Tyler%20Harper%20-%20Full%20Stack%20Developer%20Resume.pdf -->
 [twitter]: https://twitter.com/jsstackdev
 [linkedin]: https://linkedin.com/in/tyler-js-dev
 [github]: https://github.com/tylerdh12
