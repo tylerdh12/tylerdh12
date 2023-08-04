@@ -52,7 +52,7 @@ I’m looking to build creative meaningful applications
 <br />
 <br />
 
-![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerdh12)
+<!-- ![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerdh12) -->
 
 [website]: https://tylerharper.dev
 [portfolio]: https://tylerharper.dev/#portfolio
