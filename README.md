@@ -57,8 +57,8 @@ I’m looking to build creative meaningful applications
 [website]: https://tylerharper.dev
 [portfolio]: https://tylerharper.dev/#portfolio
 <!-- [resume]: https://github.com/tylerdh12/TylerHarper-Resume/raw/master/Resume-Docs/Tyler%20Harper%20-%20Full%20Stack%20Developer%20Resume.pdf -->
-[twitter]: https://twitter.com/jsstackdev
-[linkedin]: https://linkedin.com/in/tyler-js-dev
+[twitter]: https://twitter.com/Tyler_The_Dev
+[linkedin]: https://www.linkedin.com/in/tyler-the-dev
 [github]: https://github.com/tylerdh12
 [projects]: https://github.com/tylerdh12?tab=repositories&q=&type=public
 [harvestguardian]: https://expo.io/@tylerdh12/Harvest_Guardian
