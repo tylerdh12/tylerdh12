@@ -11,7 +11,7 @@ I’m looking to build creative meaningful applications
 
 <br />
 
-#### [My Portfolio][portfolio]
+<!-- #### [My Portfolio][portfolio] -->
 
 <!-- #### [Download My Resume][resume] -->
 
